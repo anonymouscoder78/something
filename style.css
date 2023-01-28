@@ -1,0 +1,13 @@
+.recipe-card {
+    width: 300px;
+    height: 400px;
+    background-color: aquamarine;
+
+    overflow: scroll;
+    display: inline-block;
+    margin: 15px;
+}
+.recipe-card img {
+    width: 300px;
+    height: 250px;
+}
